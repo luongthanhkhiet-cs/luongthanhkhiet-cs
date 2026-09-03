@@ -11,8 +11,11 @@ markdown
 - [x] **Scratch** (Building logic & algorithm fundamentals)
 - [ ] **Introduction to Python & Python Advanced** (Next step)
 - [ ] **Data Visualization** (Data Analytics core)
+- [ ] **Electronics**
 - [ ] **Machine Learning** (Deep Data Science)
+- [ ] **Roblox**
 - [ ] **C++ & Java** (University core prep)
+- [ ] **Javascript**
 
 ###  Connect with me
 -  **GitHub Profile:** https://github.com
